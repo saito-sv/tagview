@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "41AC203C503BB218C459C7CFD6A15C91DCC02CD1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41AC203C503BB218C459C7CFD6A15C91DCC02CD1" : 9223372036854775807,
+    "1E2DB9AB50C651E66D4451BE2ABA86143E3C0ED6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0FF5D0A0-A01D-4F67-91CB-C80CDED334A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41AC203C503BB218C459C7CFD6A15C91DCC02CD1" : "simple%20ios%20tagviews\/",
+    "1E2DB9AB50C651E66D4451BE2ABA86143E3C0ED6" : "..\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/iosuserapp%20endles"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "simple ios tagviews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "simple ios tagviews.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/youplus\/iosuserapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E2DB9AB50C651E66D4451BE2ABA86143E3C0ED6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Marlon-Monroy\/tagview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41AC203C503BB218C459C7CFD6A15C91DCC02CD1"
+    }
+  ]
+}
