@@ -1,6 +1,6 @@
 //
 //  TagViewCell.swift
-//  YouPlus
+//  Marlon Monroy
 //
 //  Created by Marlon Monroy on 1/17/17.
 //  Copyright © 2017 
