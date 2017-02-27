@@ -1,6 +1,6 @@
 //
 //  TagPresenterCollectionLayout.swift
-//  YouPlus
+//  Marlon Monroy
 //
 //  Created by Marlon Monroy on 2/23/17.
 //  Copyright © 2017 
