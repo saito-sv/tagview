@@ -3,7 +3,7 @@
 //  YouPlus
 //
 //  Created by Marlon Monroy on 2/23/17.
-//  Copyright © 2017 You Plus. All rights reserved.
+//  Copyright © 2017 
 //
 
 import UIKit
